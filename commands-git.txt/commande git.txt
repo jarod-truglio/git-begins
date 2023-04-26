@@ -1,0 +1,6 @@
+Cloner un dépôt = git clone (+irl de la page)
+Les 3 commandes push :
+git add -> pour mettre en scene les modif en vue d'un commit
+git commit -> pour validé les modif avec un message descriptif
+git push pour pousser les modif vers le reférentiel distant
+git pull
